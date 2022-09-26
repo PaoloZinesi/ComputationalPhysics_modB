@@ -1,6 +1,12 @@
 # Computational Physics (mod. B) ![ ](https://img.shields.io/badge/python-3c78aa?style=for-the-badge&logo=python&logoColor=ffe874)
 This is the repository for the exercises of the course Laboratory of Computational Physics, mod. B. 
 
+## Group members
+- [Tommaso Amico](https://github.com/tommasoamico)
+- [Andrea Lazzari](https://github.com/AndreaLazzari)
+- [Paolo Zinesi](https://github.com/PaoloZinesi)
+- [Nicola Zomer](https://github.com/NicolaZomer)
+
 ## Topics covered
 - Gradient descent
 - Deep neural networks 
