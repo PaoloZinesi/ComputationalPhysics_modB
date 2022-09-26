@@ -1,4 +1,4 @@
-# Computational Physics (mod. B)
+# Computational Physics (mod. B) ![ ](https://img.shields.io/badge/python-3c78aa?style=for-the-badge&logo=python&logoColor=ffe874)
 This is the repository for the exercises of the course Laboratory of Computational Physics, mod. B. 
 
 ## Topics covered
